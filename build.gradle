@@ -1,0 +1,10 @@
+plugins {
+    id 'groovy'
+}
+
+group = 'ru.fourbarman.spring.planner'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
